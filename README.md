@@ -1,4 +1,4 @@
-Este repositorio contiene el cuaderno de Jupyter necesario para replicar, las tablas, las gráficas y los cálculos usados en la redacción de nuestra entrega final 
+Este repositorio contiene todo el flujo de trabajo necesario para replicar, las tablas, las gráficas y los cálculos usados en la redacción de la entrega final del documento 
 "Más allá del F1: auditoría de un modelo de predicción de pobreza" en la asignatura "IA más allá del poder predictivo: equidad, interpretabilidad, privacidad, e incertidumbre" 
 en la Bogotá Summer School in Economics 2026.
 
