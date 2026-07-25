@@ -9,3 +9,7 @@ Este repo contiene dos carpetas principales:
 - stores: Esta carpeta guarda todos los archivos usados para el análisis, así como todos los resultados derivados. Esta tiene dos subcarpetas:
   - input: Esta carpeta guarda los archivos insumos usados para la auditoría, estos son los archivos originales de las particiones de las muestras de entrenamiento, validación y prueba. Así como el modelo original usado en la competencia.
   - output: Esta carpeta guarda todos los archivos usados en el documento de la auditoría, todas las tablas, gráficas, modelos y bases empleadas. 
+
+Warning:
+
+Para poder ejecutar de manera correcta el notebook es necesario, que en la sección "5. Mitigación por cortes diferenciales", es necesario instalar el modulo "error-parity" el cual puede dar errores en función de la versión de Python, para que este funcione es necesario usar el modulo Numpy en una versión anterior a la 2.0.0.
